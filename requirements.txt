@@ -1,0 +1,13 @@
+# Python 3.12; versions used for validation
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+umap-learn==0.5.12
+ultraplot==2.6.0
+requests==2.34.2
+jupyterlab==4.6.4
+ipykernel==7.3.0
+h5py==3.16.0
+KDEpy==1.1.12
+numba==0.67.0
