@@ -1,6 +1,6 @@
 # mdRNAcat
 This repository contains metadata to access, and code to do analysis and 
-validation of the [mdRNAcat](https://huggingface.co/datasets/anonymous8576/mdrnacat) 
+validation of the [mdRNAcat](https://huggingface.co/datasets/HelmholtzAI-FZJ/mdRNAcat) 
 dataset.
 
 ## Setup environment
@@ -60,7 +60,7 @@ jupyter lab mdrnacat_plots.ipynb
 ```
 
 Edit Cell 2 to point `DATA_ROOT` to the directory where you downloaded the 
-[mdRNAcat](https://huggingface.co/datasets/anonymous8576/mdrnacat) dataset. 
+[mdRNAcat](https://huggingface.co/datasets/HelmholtzAI-FZJ/mdRNAcat) dataset. 
 Then, run every cell from the top in your browser or notebook viewer of choice.
 
 ## mdRNAcat sequence and structure coverage analysis
